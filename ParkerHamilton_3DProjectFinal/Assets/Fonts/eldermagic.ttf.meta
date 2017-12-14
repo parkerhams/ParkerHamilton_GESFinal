@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7466010b182943947a968a3ad220ca92
+timeCreated: 1513043730
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elder Magic
+  fontNames:
+  - Elder Magic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
